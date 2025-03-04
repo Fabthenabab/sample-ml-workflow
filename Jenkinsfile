@@ -6,7 +6,7 @@ pipeline {
             steps {
                 // Checkout the code from the repository
                 git branch: 'main',
-                    url: 'https://github.com/JedhaBootcamp/sample-ml-workflow'
+                    url: 'https://github.com/Fabthenabab/sample-ml-workflow.git'
             }
         }
 
